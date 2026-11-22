@@ -1,0 +1,5 @@
+# File oggetto ed eseguibili generati da make
+*.o
+server
+client
+other
